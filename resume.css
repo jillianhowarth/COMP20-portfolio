@@ -1,0 +1,107 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+
+
+#content {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content-left {
+	width: 60%;
+	float: left;
+}
+
+#content-right {
+	width: 30%;
+	background-color: #F4F2F2;
+	float: right;
+	padding: 20px;
+}
+
+.job {
+	margin: 5px 0px 5px 0px;
+}
+
+#software-left {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+
+#software-right {
+	width: 50%;
+	float: right;
+	margin-top: 0px;
+}
+
+
+
+
+
+#content h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	margin-bottom: 1%;
+}
+
+#content #firstname {
+	font-weight: lighter;
+}
+
+.eperience-categories {
+	margin: 15px 0px 15px 0px;
+}
+
+#content h2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #DF9B9E;
+	margin: 15px 0px 5px 0px;
+}
+
+#content h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	font-weight: lighter;
+	margin: 0px 0px 0px 0px;
+}
+
+#content h4 {
+	font-family: ''Roboto', sans-serif';
+	font-size: 15px;
+	font-weight: lighter;
+	margin: 1%;
+}
+
+#content h5 {
+	font-family: 'Times';
+	font-weight: normal;
+	font-style: italic;
+	margin: 3px 0px 3px 0px;
+	font-size: 16px;
+}
+
+#content p {
+	font-family: 'Times';
+	font-weight: normal;
+}
+
+#content ul {
+	padding-left: 18px;
+	margin: 15px 0px 15px 0px;
+}
+
+#content li {
+	font-family: 'Times';
+	font-weight: normal;
+	color: #DF9B9E;
+}
+
+#content li p {
+	color: black;
+	margin: 0px;
+}
