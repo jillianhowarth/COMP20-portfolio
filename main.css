@@ -1,0 +1,128 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+
+.image-wrapper .clouds {
+	width: 100%;
+	position: relative;
+}
+
+.image-wrapper .balloon {
+	position: absolute;
+	height: auto;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+	top: 100px;
+}
+
+.image-wrapper h1 {
+	position: absolute;
+	left: 12%;
+	font-size: 71px;
+	top: 175px;
+	font-family: 'Roboto', sans-serif;
+	color: #2B2A2A;
+	}
+
+.image-wrapper h2 {
+	position: absolute;
+	left: 12%;
+	font-size: 71px;
+	top: 90px;
+	font-family: 'Roboto', sans-serif;
+	color: #2B2A2A;
+	font-weight: lighter;
+}
+
+.image-wrapper h3 {
+	position: absolute;
+	left: 12%;
+	font-size: 24px;
+	top: 285px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2B2A2A;
+	font-weight: lighter;
+}
+
+.about-wrapper {
+	background-color: #fff7fa;
+	margin: 0px 0px 0px 0px;
+	overflow: auto;
+	padding-bottom: 50px;
+}
+
+.about-wrapper .bio-title {
+	text-align: center;
+	padding: 1px;
+}
+
+.about-me {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.about-me h1 {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin: 50px;
+}
+
+.about-me .me {
+	width: 25%;
+	float: left;
+	margin-left: 5%;
+	margin-right: auto;
+
+}
+
+.about-me p {
+	text-align: center;
+}
+
+.about-me .paragraph {
+	width: 50%;
+	float: right;
+	margin: 5% 10% 10% 10%;
+}
+
+.about-me #color {
+	color: pink;
+}
+
+.bio-button a:link {
+	display: block;
+	background-color: pink;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12%;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+
+.bio-button a:visited {
+	display: block;
+	background-color: pink;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12%;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
+
+.bio-button a:hover {
+	background-color: mediumpurple;
+}
+
