@@ -1,0 +1,90 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+}
+
+h1 {
+	font-size: 71px;
+	top: 175px;
+	font-family: 'Roboto', sans-serif;
+	color: #2B2A2A;
+	text-align: center;
+	margin: 50px 50px 30px 50px;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2B2A2A;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h4 {
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2B2A2A;
+	font-weight: lighter;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+p {
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #2B2A2A;
+	font-weight: lighter;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.about-me {
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.about-wrapper {
+	background-color: #fff7fa;
+	overflow: auto;
+}
+
+
+.about-me .me {
+	width: 30%;
+	float: left;
+	margin-left: 5%;
+	margin-right: auto;
+	margin-top: 10%;
+
+}
+
+.about-me .paragraph {
+	width: 45%;
+	float: right;
+	margin: 5% 5% 10% 5%;
+	text-align: center;
+}
+
+.reading-wrapper {
+
+}
+
+.books-wrapper {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.book-title {
+	width: 30%;
+	display: inline-block;
+}
+
+.book-image {
+	width: 45%;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 5%;
+}
+
