@@ -23,7 +23,7 @@ body {
 	font-weight: lighter;
 	font-size: 25px;
 	margin: 12px;
-	color: gray;
+	color: 	#808080;
 }
 
 .logo-img {
@@ -38,7 +38,6 @@ body {
 }
 
 .navbar	li {
-	color: red;
 	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 	display: inline;
@@ -46,28 +45,28 @@ body {
 }
 
 .navbar a:link {
-	color: mediumpurple;
+	color: #9370db;
 	text-decoration: none;
 }
 
 .navbar a:visited {
-	color: mediumpurple;
+	color: #9370db;
 	text-decoration: none;
 }
 
 .navbar a:hover {
-	color: pink;
+	color: 	#ffc0cb;
 	text-decoration: none;
 }
 
 a.current:link {
-	color: pink;
+	color: 	#ffc0cb;
 	text-decoration: none;
 	/* Source: http://stackoverflow.com/questions/27566902/css-nav-bar-current-page-color-alteration*/
 } 
 
 a.current:visited{
-	color: pink;
+	color: 	#ffc0cb;
 	text-decoration: none;
 	/* Source: http://stackoverflow.com/questions/27566902/css-nav-bar-current-page-color-alteration*/
 }
@@ -135,7 +134,7 @@ a.current:visited{
 }
 
 #content h4 {
-	font-family: ''Roboto', sans-serif';
+	font-family: 'Roboto', sans-serif;
 	font-size: 15px;
 	font-weight: lighter;
 	margin: 1%;
@@ -166,6 +165,6 @@ a.current:visited{
 }
 
 #content li p {
-	color: black;
+	color: #000000;
 	margin: 0px;
 }
