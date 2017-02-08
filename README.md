@@ -8,7 +8,7 @@ Feb 8, 2017
 
 This project contains an index.html, bio.html, and resume.html file (with corresponding css files). The nav bar and content are implemented correctly, but the files are not responsive, so they do not function well on mobile.
 
-I worked with Sophie Martin to figure out how to redirect a web page (and specifically how to set the permissions correct). I also used the Internet to understand different tags and how html and css pages are read.
+I worked with Sophie Martin to figure out how to redirect a web page (and specifically how to set the permissions correctly). I also used the Internet to understand different tags and how html and css pages are read.
 
 I spent 10 hours on this project.
 
